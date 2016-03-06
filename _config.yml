@@ -1,0 +1,28 @@
+name: Giaborep
+favicon: null
+layout_spectrum: 0.614497713977471
+typography_spectrum: 0.6864876847248524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17763626133091748
+  lightness: 0.9798818272538483
+  saturation: 0.28086344595067203
+  rhythmicContrast: 0.30503849615342915
+purpose: []
