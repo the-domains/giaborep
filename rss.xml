@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Giaborep]]></title>
         <description><![CDATA[Giaborep]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/giaborep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 18:34:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 09:07:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/giaborep/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.unav.edu/image/image_gallery?uuid=f32c5e92-7fe4-475e-8fb1-288813252cd4&groupId=29032&t=1456245371786&fileName=salidas_masters_farmacia_55.jpg">]]></description>
+            <link>http://www.unav.edu/web/master-europeo-en-alimentacion-nutricion-y-metabolismo/home</link>
+            <guid isPermaLink="false">1f5e2a49-3332-4d7a-a9a1-64720ff7bbe4</guid>
+            <pubDate>Mon, 07 Mar 2016 09:07:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e3afaf-de04-475e-9cbd-6e6c4cc68df5.jpg">]]></description>
-            <link>undefinedafc1a043-4568-420b-9814-3cce83b3b1ad/index.html</link>
+            <link>https://thegrid.ai/giaborep/afc1a043-4568-420b-9814-3cce83b3b1ad/index.html</link>
             <guid isPermaLink="false">afc1a043-4568-420b-9814-3cce83b3b1ad</guid>
             <pubDate>Sun, 06 Mar 2016 18:33:06 GMT</pubDate>
         </item>
