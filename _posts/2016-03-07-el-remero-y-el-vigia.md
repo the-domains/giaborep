@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'El Remero y el Vigía es una historia que escribí hace unos meses. No la he publicado pero algún día lo haré. Me animó un '
-datePublished: '2016-03-07T10:47:14.343Z'
-dateModified: '2016-03-07T10:39:18.457Z'
+datePublished: '2016-03-07T11:08:21.346Z'
+dateModified: '2016-03-07T11:08:16.990Z'
 title: El Remero y el Vigía
 author: []
+sourcePath: _posts/2016-03-07-el-remero-y-el-vigia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-el-remero-y-el-vigia.md
-published: true
 url: el-remero-y-el-vigia/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bc559d8-d98a-414a-bab2-26eaa258a228.jpg)
+
 # El Remero y el Vigía
 
 - ¡Un paso más atrás! y ahora dime, año de la cosecha. 
@@ -36,7 +38,7 @@ Martin está seguro. Desde esa distancia no podrá ver el tamaño de la letra, y
 
 Martin se queda sin palabras, se da cuenta que quizá está arriesgando demasiado, no dice nada y saca la botella rápidamente para no tener que aceptar la nueva apuesta. Sólo se oye el silencio y las tripas de Sam que no puede retener sus nervios. Siempre ha confiado en la vista de David, pero Martin ha jugado sucio. Ha sacado una botella vieja y la etiqueta está muy sucia.****
 
-- ¡Año 1890! 
+> - ¡Año 1890! 
 
 Martin tiene que mirar la etiqueta y acercársela a un palmo de la cara. No puede creerlo. Nadie lo cree. Este chico tiene un don especial. Sam pega un brinco y reparte besos y abrazos a todo el que se encuentra. Todos los nervios que había retenido explotan en alegría. Martin tiene que saldar su cuenta pagando barra libre para todo el mundo. 
 
@@ -168,13 +170,9 @@ Esos días habían pasado. El único que remaba con una cierta eficacia era Mart
 
 David vio una gaviota. Sólo él podía verla. El viento la mantenía en el aire. Aire!!
 
-- 
+- Mi capitán a estribor! 
 
-Mi capitán a estribor! 
-
-- 
-
-¿Tierra? 
+- ¿Tierra? 
 
 - No, viento. Estamos salvados!
 
