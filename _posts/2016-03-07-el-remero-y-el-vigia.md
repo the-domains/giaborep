@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'El Remero y el Vigía es una historia que escribí hace unos meses. No la he publicado pero algún día lo haré. Me animó un '
-datePublished: '2016-03-07T11:08:21.346Z'
-dateModified: '2016-03-07T11:08:16.990Z'
+datePublished: '2016-03-07T13:23:08.728Z'
+dateModified: '2016-03-07T13:22:53.367Z'
 title: El Remero y el Vigía
 author: []
 sourcePath: _posts/2016-03-07-el-remero-y-el-vigia.md
@@ -38,7 +38,7 @@ Martin está seguro. Desde esa distancia no podrá ver el tamaño de la letra, y
 
 Martin se queda sin palabras, se da cuenta que quizá está arriesgando demasiado, no dice nada y saca la botella rápidamente para no tener que aceptar la nueva apuesta. Sólo se oye el silencio y las tripas de Sam que no puede retener sus nervios. Siempre ha confiado en la vista de David, pero Martin ha jugado sucio. Ha sacado una botella vieja y la etiqueta está muy sucia.****
 
-> - ¡Año 1890! 
+- ¡Año 1890! 
 
 Martin tiene que mirar la etiqueta y acercársela a un palmo de la cara. No puede creerlo. Nadie lo cree. Este chico tiene un don especial. Sam pega un brinco y reparte besos y abrazos a todo el que se encuentra. Todos los nervios que había retenido explotan en alegría. Martin tiene que saldar su cuenta pagando barra libre para todo el mundo. 
 
@@ -191,6 +191,7 @@ Sam mira a sus hijos. Ahora ya sabe cómo explicarles tantas cosas de la vida. C
 David cometió un error, pero Martin lo convirtió en un Don.
 
 Que hubiera pasado si Martin no hubiera perdonado? No se sabe pero probablemente:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ec1db6-b3e3-4873-a06a-31a734b69176.jpg)
 
 David y Martin se habrían quedado ciegos, pues sólo la brisa marina los podía curar. Martin hubiera muerto de su cancer. Los marineros habrían fallecido por la falta de los brazos de Martin y la vista de David. 
 
