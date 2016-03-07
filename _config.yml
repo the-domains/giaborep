@@ -1,6 +1,6 @@
 name: Giaborep
 favicon: null
-layout_spectrum: 0.08959
+layout_spectrum: 0.68359
 typography_spectrum: 0.66692
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#fffefb'
     - '#2d9d62'
     - '#c6b9a8'
-  brandStrength: 0.3125
+  brandStrength: 0.6875
   lightness: 0.9798818272538483
-  saturation: 0.28086344595067203
-  rhythmicContrast: 0.30503849615342915
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
